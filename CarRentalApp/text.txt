@@ -1,0 +1,15 @@
+{
+  "name": "admin",
+  "email": "admin@primerental.com",
+  "tel": "0000000000",
+  "role": "admin",
+  "password": "0123456789"
+}
+
+{
+  "success": true,
+  "_id": "6650ae09d2e2b422dce35e7c",
+  "name": "admin",
+  "email": "admin@primerental.com",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NTBhZTA5ZDJlMmI0MjJkY2UzNWU3YyIsImlhdCI6MTcxNjU2MzQ2NSwiZXhwIjoxNzQ4MDk5NDY1fQ.yVOjmgVMYKKVt5PNvqPR_StuMOz1WL0Cr8Yn8qQxn-4"
+}
