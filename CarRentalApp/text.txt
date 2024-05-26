@@ -13,3 +13,19 @@
   "email": "admin@primerental.com",
   "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NTBhZTA5ZDJlMmI0MjJkY2UzNWU3YyIsImlhdCI6MTcxNjU2MzQ2NSwiZXhwIjoxNzQ4MDk5NDY1fQ.yVOjmgVMYKKVt5PNvqPR_StuMOz1WL0Cr8Yn8qQxn-4"
 }
+
+{
+  "name": "customer",
+  "email": "customer@gmail.com",
+  "tel": "0000000000",
+  "role": "user",
+  "password": "0123456789"
+}
+
+{
+  "success": true,
+  "_id": "6652df7c4f6aa56f5319e93c",
+  "name": "customer",
+  "email": "customer@gmail.com",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NTJkZjdjNGY2YWE1NmY1MzE5ZTkzYyIsImlhdCI6MTcxNjcwNzE5NiwiZXhwIjoxNzQ4MjQzMTk2fQ.vQYv_eoLYfFvqvam30cMS0wJ_jwIwjgGgpJRQKJZCY8"
+}
