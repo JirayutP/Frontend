@@ -4,9 +4,9 @@ import { Suspense } from "react"
 import { LinearProgress } from "@mui/material"
 import CarPanel from "@/components/CarPanel"
 
-export default function Car() {
+export default async function Car() {
 
-    const cars = getCars()
+    const cars = await getCars()
     
     return(
         <main className="text-center p-5">
